@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3104166666666667" />
+        <entry key="app/src/main/res/drawable-v24/correct_option_border_bg.xml" value="0.140625" />
+        <entry key="app/src/main/res/drawable-v24/default_option_border_bg.xml" value="0.140625" />
+        <entry key="app/src/main/res/drawable-v24/selected_option_border_bg.xml" value="0.140625" />
+        <entry key="app/src/main/res/drawable-v24/wrong_option_border_bg.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23813190625214353" />
+        <entry key="app/src/main/res/layout/activity_quiz_question.xml" value="0.19829526072948464" />
+        <entry key="app/src/main/res/layout/activity_quiz_questions.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.1985707947470919" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
